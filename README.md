@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 我是飞翔。
-欢迎到我的个人网站：[http://blog.hengda.dedyn.io/](https://blog.auto.nyc.mn/)
+欢迎到我的个人网站：(https://blog.auto.nyc.mn/)
